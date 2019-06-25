@@ -1,0 +1,11 @@
+E:\mytestproject\CommonWeb\code\DBUtility\obj\Debug\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyProject\CommonWeb\code\DBUtility\bin\Debug\DBUtility.dll
+D:\MyProject\CommonWeb\code\DBUtility\bin\Debug\DBUtility.pdb
+D:\MyProject\CommonWeb\code\DBUtility\obj\Debug\DBUtility.dll
+D:\MyProject\CommonWeb\code\DBUtility\obj\Debug\DBUtility.pdb
+C:\Project\CommonWeb\code\DBUtility\bin\Debug\DBUtility.dll
+C:\Project\CommonWeb\code\DBUtility\bin\Debug\DBUtility.pdb
+C:\Project\CommonWeb\code\DBUtility\obj\Debug\DBUtility.csproj.CoreCompileInputs.cache
+C:\Project\CommonWeb\code\DBUtility\obj\Debug\DBUtility.dll
+C:\Project\CommonWeb\code\DBUtility\obj\Debug\DBUtility.pdb
+C:\Project\CommonWeb\code\DBUtility\obj\Debug\DBUtility.csprojAssemblyReference.cache

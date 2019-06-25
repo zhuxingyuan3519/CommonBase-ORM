@@ -1,0 +1,5 @@
+D:\MyProject\CommonWeb\code\DBUtility\bin\Release\DBUtility.dll
+D:\MyProject\CommonWeb\code\DBUtility\bin\Release\DBUtility.pdb
+D:\MyProject\CommonWeb\code\DBUtility\obj\Release\DBUtility.csprojResolveAssemblyReference.cache
+D:\MyProject\CommonWeb\code\DBUtility\obj\Release\DBUtility.dll
+D:\MyProject\CommonWeb\code\DBUtility\obj\Release\DBUtility.pdb
